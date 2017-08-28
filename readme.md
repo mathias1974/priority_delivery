@@ -40,5 +40,6 @@ Copy the config file to the right place:
 cp ./priority_delivery.ini ../../config/priority_delivery.ini
 ``` 
 
-Lock channel:
+###Lock channel:
+
 http://127.0.0.1:3627/lock?host=AA.com
